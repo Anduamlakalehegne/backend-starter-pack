@@ -2,9 +2,6 @@
 
 ### API Documentation With Example(Postman) : 
 
-## Table of Contents
-- [Auth Routes](#auth-routes)
-
 
 ## Auth Routes
 - **POST /auth/login**: Login a user
